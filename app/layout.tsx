@@ -31,16 +31,16 @@ export const metadata: Metadata = {
     "Backend",
     "Cairo Egypt"
   ],
-  authors: [{ name: "Abdulrahman Helmy", url: "https://your-domain.com" }],
+  authors: [{ name: "Abdulrahman Helmy", url: "https://portfolio-info-egypt.vercel.app/" }],
   creator: "Abdulrahman Helmy",
   openGraph: {
     title: "Abdulrahman Helmy | Full Stack Developer",
     description: "Explore my portfolio, skills and projects in web development.",
-    url: "https://your-domain.com",
+    url: "https://portfolio-info-egypt.vercel.app/",
     siteName: "Abdulrahman Helmy Portfolio",
     images: [
       {
-        url: "https://your-domain.com/preview.png",
+        url: "https://portfolio-info-egypt.vercel.app/pro.jpg",
         width: 1200,
         height: 630,
         alt: "Abdulrahman Helmy Portfolio Preview",
@@ -53,10 +53,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Abdulrahman Helmy | Full Stack Developer",
     description: "Explore my portfolio, skills and projects in web development.",
-    images: ["https://your-domain.com/preview.png"],
+    images: ["https://portfolio-info-egypt.vercel.app/preview.png"],
     creator: "@your_twitter_username",
   },
-  metadataBase: new URL("https://your-domain.com"),
+  metadataBase: new URL("https://portfolio-info-egypt.vercel.app"),
 };
 
 
