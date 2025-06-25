@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Abdulrahman Helmy | Full Stack Developer",
   description: "Portfolio of Abdulrahman Helmy, a Full Stack Developer skilled in React, Next.js, Node.js, Java, MongoDB, and more. Based in Cairo, Egypt.",
+ 
+  verification: {
+    google: "xjt__7mWfOTGW71gWrMVBLZF6-5mSkz5gyfBOI8rHVc", 
+  },
   keywords: [
     "Abdulrahman Helmy",
     "Full Stack Developer",
