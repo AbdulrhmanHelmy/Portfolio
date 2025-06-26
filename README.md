@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👨‍💻 Abdulrahman Helmy - Portfolio
 
-## Getting Started
+Welcome to my personal portfolio website, built with **Next.js 13 App Router**, **Tailwind CSS**, and hosted on **Vercel**.
 
-First, run the development server:
+The site showcases my technical skills, featured projects, and ways to contact me. It supports **English and Arabic** with a modern, responsive, and animated UI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Live Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🌐 [Click here to visit the live website](https://your-vercel-url.vercel.app)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📸 Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+| Dark Mode | Mobile View |
+|-----------|-------------|
+| ![screenshot](public/preview-desktop.png) | ![mobile](public/preview-mobile.png) |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Framework**: [Next.js 13+](https://nextjs.org/)
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: React Icons
+- **Fonts**: Google Fonts (`Geist`, `Geist Mono`)
+- **Languages**: English 🇬🇧 | Arabic 🇪🇬
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📂 Features
+
+- 🌍 Multilingual (English + Arabic)
+- ⚡ Dark Mode
+- 📱 Fully Responsive Design
+- 🎯 Projects with Live Links & GitHub
+- 📞 Contact section with social icons
+- 🧠 Skills grid with icons
+- ✅ SEO Ready (Meta tags, Sitemap, etc.)
+
+---
+
+## 📁 Folder Structure
+
