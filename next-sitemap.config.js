@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "portfolio-info-egypt.vercel.app",
-  generateRobotsTxt: true,           
- 
+  siteUrl: "https://portfolio-info-egypt.vercel.app",
+  generateRobotsTxt: true,
+
 };
